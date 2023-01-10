@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600;700&display=swap");
+
+body {
+	font-family: "Montserrat";
+	font-weight: 300;
+}
+	
+@media only screen and (max-width: 768px) {
+
+	body {
+		font-size:0.8em;
+	}
+
+}
+
+table {
+	width: 100%;
+	padding: 10px;
+	table-layout: fixed;
+}
+
+table th {
+   text-align: center;   
+   text-decoration: none; 
+   font-weight: normal;
+}
+
+table > tbody > tr > td,
+table > tbody > tr > th,
+table > tfoot > tr > td,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > thead > tr > th {
+	border: 2px solid #f8f8f8;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 7px;
+	padding: 5px;
+}
+
+.cell_gray { background-color: #E0E0E0 !important; }
+
+.cell_sahasrara { background-color: #664074 !important; color: white; }
+.cell_ajna { background-color: #155493 !important; color: white; }
+.cell_vishuddha { background-color: #009ED1 !important; color: white; }
+.cell_anahata { background-color: #009E52 !important; color: white; }
+.cell_manipura { background-color: #EFBE3D !important; color: white; }
+.cell_svadhisthana { background-color: #F28D3B !important; color: white; }
+.cell_muladhara { background-color: #E54144 !important; color: white; }
+.cell_total { background-color:#bcb395 !important; color: white; }

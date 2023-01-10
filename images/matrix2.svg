@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" version="1.1" viewBox="0 0 254 254" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+
+<g class="layer1" stroke="#bcb395" stroke-width=".24">
+
+	<rect x="63.360390" y="63.360390" width="127" height="127" fill="none" opacity=".999" />
+
+	<line x1="127" y1="37" x2="127" y2="217" />
+	<line x1="37" y1="127" x2="217" y2="127" />
+
+	<line x1="37" y1="127" x2="127" y2="37" />
+	<line x1="37" y1="127" x2="127" y2="217" />
+	<line x1="127" y1="37" x2="217" y2="127" />
+	<line x1="127" y1="217" x2="217" y2="127" />
+
+	<line x1="127" y1="190" x2="190" y2="127" />
+	<line x1="127" y1="203" x2="203" y2="127" />
+
+	<line x1="63.360390" y1="63.360390" x2="190.639610" y2="190.639610" style="stroke:#bcb395;stroke-width:0.24;stroke-miterlimit:4;stroke-dasharray:0.96000001,1.92000001;stroke-dashoffset:0" />
+	<line x1="63.360390" y1="190.639610" x2="190.639610" y2="63.360390" style="stroke:#bcb395;stroke-width:0.24;stroke-miterlimit:4;stroke-dasharray:0.96000001,1.92000001;stroke-dashoffset:0" />
+
+	<text x="-52.400311" y="177.58769" transform="rotate(-45)"
+		style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#bcb395;fill-opacity:1;stroke:none;stroke-width:0.264583">
+		Línea materna
+	</text>
+	<text x="193.83521" y="-1.8544561" transform="rotate(45)"
+		style="font-style:normal;font-weight:normal;font-size:3.52777px;line-height:1.25;font-family:sans-serif;fill:#bcb395;fill-opacity:1;stroke:none;stroke-width:0.264583">
+		Línea paterna
+	</text>
+
+</g>
+<g class="layer2" stroke-width=".45">
+	<circle class="circle5-3" cx="200.5" cy="127" r="6.2" fill="#F28D3B" stroke="#F28D3B" />
+	<circle class="circle5-4" cx="187.5" cy="127" r="6.2" fill="#EFBE3D" stroke="#EFBE3D" />
+	<circle class="circle5-7" cx="127" cy="200.5" r="6.2" fill="#F28D3B" stroke="#F28D3B" />
+	<circle class="circle5-8" cx="127" cy="187.5" r="6.2" fill="#EFBE3D" stroke="#EFBE3D" />
+	<!-- -->
+	<circle class="circle4-4" cx="158.5" cy="158.5" r="4.2" fill="#EFBE3D" stroke="#EFBE3D" />
+	<circle class="circle4-5" cx="172" cy="172" r="4.2" fill="#E54144" stroke="#E54144" />
+	<circle class="circle4-6" cx="165" cy="165" r="4.2" fill="#F28D3B" stroke="#F28D3B" />
+</g>
+
+<g class="layer3">
+	<circle class="circle-c" cx="127" cy="127" r="10" fill="#009E52" stroke="#009E52" stroke-width="0.45" />
+	<!-- -->
+	<circle class="circle-0" cx="37" cy="127" r="9.34" fill="#664074" stroke="#664074" stroke-width="0.45" />
+	<circle class="circle-10" cx="63.360390" cy="63.360390" r="9.34" fill="#bcb395" stroke="#bcb395" stroke-width="0.45" />
+	<circle class="circle-20" cx="127" cy="37" r="9.34" fill="#664074" stroke="#664074" stroke-width="0.45" />
+	<circle class="circle-30" cx="190.639610" cy="63.360390" r="9.34" fill="#bcb395" stroke="#bcb395" stroke-width="0.45" />
+	<circle class="circle-40" cx="217" cy="127" r="9.34" fill="#E54144" stroke="#E54144" stroke-width="0.45" />
+	<circle class="circle-50" cx="190.639610" cy="190.639610" r="9.34" fill="#bcb395" stroke="#bcb395" stroke-width="0.45" />
+	<circle class="circle-60" cx="127" cy="217" r="9.34" fill="#E54144" stroke="#E54144" stroke-width="0.45" />
+	<circle class="circle-70" cx="63.360390" cy="190.639610" r="9.34" fill="#bcb395" stroke="#bcb395" stroke-width="0.45" />
+</g>
+
+<g id="textos">
+</g>
+
+</svg>
+
